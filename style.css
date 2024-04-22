@@ -25,3 +25,24 @@ ul{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
+header, footer{
+    background: #12c1ce;
+  color: rgb(12, 12, 12);
+  padding: 30px;
+
+}
+header{
+    display: flex;
+  justify-content: space-between;
+  align-items: center
+}
+body{
+    background-color: rgb(92, 236, 181);
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+footer{
+    margin-left: 5px;
+    margin-right: 10px;  
+}
